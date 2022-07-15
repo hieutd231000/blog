@@ -1,0 +1,17 @@
+/*
+|
+| Custom css
+|
+|
+*/
+
+#img_preview {
+    width: 50%;
+    height: 250px;
+    border: 1px rgba(0, 0, 0, 0.18) solid;
+}
+#img_preview img {
+    margin: 5%;
+    max-width: 90%;
+    max-height: 90%;
+}
